@@ -1,0 +1,26 @@
+.me__avatar {
+  width: 130rpx;
+  height: 130rpx;
+  border-radius: 50%;
+  background-size: cover;
+  background-color: white;
+  margin: 100rpx auto 20rpx;
+  display: block;
+}
+
+.me__nick-name{
+  text-align: center;
+  display: block;
+  font-size: 32rpx;
+  color: #007aff;
+  background-color: white;
+  background-size: cover;
+}
+.me__operation{
+  background-color: black;
+  height: 100rpx;
+  margin-top: 100rpx;
+}
+.me__i-cell-group{
+   background-color: black;
+}

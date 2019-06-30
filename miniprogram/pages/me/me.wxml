@@ -1,0 +1,15 @@
+<view class="me">
+  <view class="me__info">
+    <image src="{{avatarUrl}}" class="me__avatar"></image>
+    <text class="me__nick-name">{{userInfo.nickName}}</text>
+  </view>
+  <view class="me__operation">
+    <i-cell-group i-class="me__i-cell-group">
+      <i-cell title="只显示箭头" is-link></i-cell>
+      <i-cell title="只显示箭头" is-link></i-cell>
+      <i-cell title="只显示箭头" is-link></i-cell>
+      <i-cell title="只显示箭头" is-link></i-cell>
+      <i-cell title="只显示箭头" is-link></i-cell>
+    </i-cell-group>
+  </view>
+</view>
